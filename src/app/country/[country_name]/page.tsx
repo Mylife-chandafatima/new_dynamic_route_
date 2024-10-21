@@ -121,7 +121,6 @@ else{
  export  default countries
 
 
-// import CountryPage from "./[country_name]/page"
 
 
 // import { useRouter } from 'next/router';
